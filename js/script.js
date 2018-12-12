@@ -12,3 +12,11 @@ $(document).ready(function() {
     });
 
 });
+function scoreQuestion1(answer){
+if (answer === "Cancer" || answer=== "Scorpio" || answer=== "Pisces "){
+    return 20;
+    } 
+else if (answer=== "")
+    
+    
+}
